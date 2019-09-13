@@ -11,7 +11,7 @@ output: html_notebook
 
 ![](https://blueband.psu.edu/)
 
-This class is for the Penn State Marching Blue Band.
+This class is for the Penn State University Marching Blue Band.
 
 The band rehearses on Monday, Wednesday, and Friday from 4:00pm-5:45pm and on Thursday from 7:30pm-10:00pm.
 
