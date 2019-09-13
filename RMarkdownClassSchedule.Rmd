@@ -1,0 +1,38 @@
+---
+title: "RMarkdown Class Schedule"
+author: "Joshua Harman"
+date: "September 13, 2019"
+output: html_notebook
+---
+
+# Class Schedule
+
+### MUSIC 081: Marching Blue Band
+
+This class is for the Penn State Blue Band.
+
+The band rehearses on Monday, Wednesday, and Friday from 4:00pm-5:45pm and on Thursday from 7:30pm-10:00pm.
+
+The band reports between 5 and 6 hours before kickoff on gameday.
+
+![](https://i.ytimg.com/vi/HPucmusjujI/maxresdefault.jpg)
+
+### STAT 184: Introduction to R Programming
+
+This class introduces data computing fundamentals and a reproducible workflowusing the R language and related tools.
+
+The class emphasizes the use of "tidyverse" R packages.
+
+The class meets on Wednesday and Friday form 12:20pm-1:10pm.
+
+![](https://ih1.redbubble.net/image.522702506.2522/mp,840x830,matte,f8f8f8,t-pad,750x1000,f8f8f8.u4.jpg)
+
+### STAT 318: Elementary Probability
+
+This class covers combinatorial analysis, axioms of probability, conditional probability and independence.
+
+This class also covers discrete and continuous random variables, expectation, limit theorems and additional topics.
+
+The class meets on Monday, Wednesday, and Friday from 9:05am-9:55am.
+
+![](https://www.mathsisfun.com/data/images/probability-sample-space.svg)
